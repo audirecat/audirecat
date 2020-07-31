@@ -1,18 +1,23 @@
-### Hi there
-- file not found -
+# name
+A thingy that does thing in some way.
+- thing
+- and
+- more thing
 
+some `test bla` sentence
 
-<!--
-**audirecat/audirecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+some thing
+about thing
+that things
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Download name [here](http:www.google.com)
+- Technology
+its very technological
+- minimum requirements
+computer with screen
+- numbers
+1,2 and 3
+- licence
+there will be a licence
