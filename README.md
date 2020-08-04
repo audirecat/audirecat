@@ -1,4 +1,4 @@
-![audirecat](screenshot.png)
+![audirecat](https://github.com/audirecat/audirecat/blob/master/screenshot.png)
 
 ## *audirecat*
 - thing
