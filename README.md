@@ -1,23 +1,18 @@
-# name
-A thingy that does thing in some way.
+![audirecat](screen.png)
+
+## *audirecat*
 - thing
 - and
 - more thing
+<br><br><br>
 
-some `test bla` sentence
+### Download
+get the latest version of [audirecat](/audirecat/audirecat/releases/latest/download/asset-name.zip) here.
+<br><br><br>
 
-```
-some thing
-about thing
-that things
-```
+### Install
+minimum requirements: Linux 2.4, X11, OpenGL
 
-##### Download name [here](http:www.google.com)
-- Technology
-its very technological
-- minimum requirements
-computer with screen
-- numbers
-1,2 and 3
-- licence
-there will be a licence
+### License
+See the [LICENSE](LICENSE.txt) file for license rights.
+<br><br><br>
