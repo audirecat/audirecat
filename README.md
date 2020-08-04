@@ -1,4 +1,4 @@
-![audirecat](screen.png)
+![audirecat](screenshot.png)
 
 ## *audirecat*
 - thing
