@@ -16,5 +16,5 @@ minimum requirements: Linux 2.4, X11, OpenGL
 <br><br><br>
 
 ### License
-See the [LICENSE](LICENSE.txt) file for license rights.
+See the [LICENSE](https://github.com/audirecat/audirecat/blob/master/LICENSE.txt) file for license rights.
 <br><br><br>
