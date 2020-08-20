@@ -1,4 +1,4 @@
-![audirecat](https://github.com/audirecat/audirecat/blob/master/screenshot.png)
+![audirecat](https://github.com/audirecat/audirecat/blob/master/audirecat.gif)
 
 ## *audirecat* - real time analyzer for Linux
 - intuitive, dynamic user interface
