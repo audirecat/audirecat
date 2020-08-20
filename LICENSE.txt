@@ -1,5 +1,4 @@
-
-audirecat software License - Verison 1.0 - August 14th, 2020
+audirecat software License - Verison 1.0 - August 20th, 2020
 
 
 Permission is hereby granted, free of charge, to use the Software in any environment,
@@ -36,11 +35,22 @@ Copyright (C) 2020 - the audirecat creator
 
 
 *** credits ********************************
-the software uses following dynamically linked libraries:
+
+Software used to create audirecat:
+
+- GCC C Compiler
+- Geany programming IDE
+- Inkscape vector graphics editor
+- Pinta image editor
 
 
 
-*** GNU C library, GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 *************
+
+*** audirecat uses following dynamically linked libraries: *********************************
+
+
+
+*** GNU C library, GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 ************
 https://www.gnu.org/software/libc/manual/html_node/Copying.html
 if you need a printed version of the Licence or the Source Code, please
 write the Author, who will send you a copy for a small Fee.
@@ -56,7 +66,7 @@ Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  021
 
 
 
-*** X11 Display library License *************************************************************
+*** X11 Display library License ************************************************************
 Copyright (C) 1996 X Consortium
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
 and associated documentation files (the "Software"), to deal in the Software without restriction,
@@ -78,7 +88,7 @@ X Window System is a trademark of X Consortium, Inc.
 
 
 
-*** The Mesa 3-D graphics library, MIT license **************************************
+*** The Mesa 3-D graphics library, MIT license ********************************************
 Copyright (C) 1999-2007  Brian Paul   All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a
