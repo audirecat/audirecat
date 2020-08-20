@@ -1,5 +1,9 @@
 ![audirecat](https://github.com/audirecat/audirecat/blob/master/audirecat.gif)
 
+
+<img src="https://github.com/audirecat/audirecat/blob/master/audirecat.gif" width="962" height="446">
+
+
 ## *audirecat* - real time analyzer for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
