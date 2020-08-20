@@ -1,11 +1,11 @@
 ![audirecat](https://github.com/audirecat/audirecat/blob/master/screenshot.png)
 
-## *audirecat* - visual audio meter
+## *audirecat* - real time analyzer for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
 - linear mode with sideband Receiver for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
-- fast real time spectrum analyzer with smooth waterfall spectogram
+- fast spectrum analyzer with smooth waterfall spectogram
 - in-house DSP kernel<br><br>
 
 ### Download
