@@ -9,7 +9,7 @@
 - in-house DSP kernel<br><br>
 
 ### Download
-get the latest version of [audirecat](https://github.com/audirecat/audirecat/releases/download/v1.0_beta/audirecat_v1.0_beta.tar.gz) here.<br><br>
+coming soon<br><br>
 
 ### Install
 audirecat is portable. open zip folder and type `./audirecat` to run.<br>
